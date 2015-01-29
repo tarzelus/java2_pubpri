@@ -6,14 +6,11 @@ import pubpriv.Alumnos;
 import java.util.Hashtable;
 import java.util.Scanner;
 
-//git eclipse proba
+//git eclipse probaaa
 
 public class Main {
 	
 	public static void main (String [ ] Args) {
-		
-		
-		
 		
 		
 			Scanner sc = new Scanner(System.in);
