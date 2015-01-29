@@ -1,5 +1,8 @@
-package src;
 
+
+import src.Escuela;
+import src.Profesores;
+import src.Alumnos;
 
 import java.util.Hashtable;
 import java.util.Scanner;

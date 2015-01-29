@@ -1,4 +1,4 @@
-package pubpriv;
+package src;
 public class Profesores extends Escuela{
 	//variables private para tener solo acceso desde esta clase
 

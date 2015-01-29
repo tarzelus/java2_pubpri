@@ -1,5 +1,5 @@
 //package com.zubiri.eleccionesssssssssssssssssssrethjetjmr;
-package pubpriv;
+package src;
 import java.util.Scanner;
 
 

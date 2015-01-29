@@ -1,5 +1,5 @@
-package pubpriv;
-public class Alumnos extends Escuela
+package src;
+public class Alumnos extends Escuela implements PapAlumnos
 {
 
 	private int idAlumno;
